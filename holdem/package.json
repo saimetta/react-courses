@@ -1,0 +1,17 @@
+{
+  "name": "Holdem",
+  "version": "0.0.0",
+  "description": "",
+  "main": "cards.js",
+  "dependencies": {
+    "jasmine": "~2.6.0"
+  },
+  "devDependencies": {
+    "jasmine": "~2.6.0"
+  },
+  "scripts": {
+    "test": "jasmine"
+  },
+  "author": "saimetta",
+  "license": "BSD-2-Clause"
+}
